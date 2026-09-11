@@ -1,0 +1,115 @@
+{
+	"nav": { "home": "Beranda", "about": "Tentang", "experience": "Pengalaman", "expertise": "Keahlian", "projects": "Proyek", "tech": "Teknologi", "contact": "Kontak", "cta": "Mari Bekerja Sama", "menu": "Buka menu" },
+	"hero": {
+		"eyebrow": "Full Stack · Backend · Odoo Developer",
+		"headline": "Membangun Software untuk Menyelesaikan Masalah Bisnis Nyata.",
+		"description": "Saya Satria Giri Syawalludin, Full Stack dan Backend Developer dengan fokus pada enterprise application, system integration, HRIS/HCMS, Odoo, API, dan pengembangan software yang scalable.",
+		"badge": "Indonesia · Terbuka untuk Remote & International Opportunities",
+		"experience": "Lihat Pengalaman",
+		"contact": "Hubungi Saya",
+		"architecture": "Software Architecture",
+		"architectureNote": "Terhubung, andal, dan siap tumbuh"
+	},
+	"about": {
+		"eyebrow": "Tentang saya",
+		"title": "Lebih dari Sekadar Menulis Kode",
+		"description": "Software developer dengan pengalaman profesional lebih dari 5 tahun dalam membangun dan memelihara aplikasi bisnis. Saya memadukan pemahaman kebutuhan bisnis dengan eksekusi teknis yang rapi.",
+		"profileAlt": "Foto profil Satria Giri Syawalludin",
+		"stats": [
+			{ "value": "5+", "label": "Tahun Pengalaman" },
+			{ "value": "Enterprise", "label": "Aplikasi Bisnis" },
+			{ "value": "Full Stack", "label": "& Backend" },
+			{ "value": "Lead", "label": "Teknis" }
+		],
+		"industriesTitle": "Pengalaman lintas domain",
+		"industries": ["HRIS", "HCMS", "Odoo", "SaaS", "IoT", "E-Commerce", "POS", "WMS"]
+	},
+	"experience": {
+		"eyebrow": "Jejak profesional",
+		"title": "Membangun di Tempat yang Berarti",
+		"description": "Pengalaman mengembangkan sistem penting untuk operasi bisnis, dari enterprise HR hingga produk SaaS dan IoT.",
+		"odooRole": "Odoo Developer",
+		"odooDescription": "Mengembangkan, mengimplementasikan, dan meningkatkan Employee Cbunentral, Organization Management, Employee Management, serta integrasi API dan data enterprise.",
+		"leadRole": "Full Stack Developer / Team Leader",
+		"leadDescription": "Mengerjakan HCMS untuk PT Adhi Karya dan PT Wijaya Karya; memimpin progres developer, kualitas implementasi, kebutuhan bisnis, dan timeline proyek.",
+		"fullstackRole": "Full Stack Developer",
+		"fullstackDescription": "Mendukung dan mengembangkan HRIS untuk Semen Indonesia Group dan Waskita Karya.",
+		"ctoRole": "Technical Partner / CTO Contract",
+		"ctoDescription": "Memberikan arah teknis dan arsitektur perangkat lunak untuk produk SaaS dan IoT.",
+		"backendRole": "Backend Developer",
+		"backendDescription": "Mengembangkan platform backend untuk layanan KapalSantai dan Perahuku.",
+		"softwareRole": "Software Developer",
+		"softwareDescription": "Mengembangkan REST API untuk aplikasi operasional manajemen oil spill.",
+		"founderRole": "Founder / Software Developer",
+		"founderDescription": "Membangun layanan IT dan produk perangkat lunak melalui Satriags Developer."
+	},
+	"expertise": {
+		"eyebrow": "Area fokus",
+		"title": "Keahlian yang Menopang Produk",
+		"description": "Dari analisis proses sampai sistem siap dipakai, dengan fondasi yang mudah dipelihara.",
+		"enterprise": "Enterprise Software",
+		"backend": "Backend & REST API",
+		"integration": "System Integration",
+		"hris": "HRIS / HCMS",
+		"odoo": "Odoo Development",
+		"saas": "SaaS & IoT",
+		"analysis": "Business Process Analysis",
+		"leadership": "Technical Leadership"
+	},
+	"tech": {
+		"eyebrow": "Perangkat kerja",
+		"title": "Teknologi yang Saya Gunakan",
+		"description": "Memilih teknologi berdasarkan kebutuhan produk, skalabilitas, dan keberlanjutan tim.",
+		"frontend": "Frontend",
+		"backend": "Backend",
+		"enterprise": "Enterprise",
+		"database": "Database",
+		"infrastructure": "Infrastruktur"
+	},
+	"projects": {
+		"eyebrow": "Pilihan karya",
+		"title": "Sistem untuk Masalah yang Nyata",
+		"description": "Beberapa area produk dan platform yang saya bangun atau dukung secara teknis.",
+		"detail": "Lihat detail",
+		"role": "Peran",
+		"hcms": {
+			"name": "Enterprise HCMS / HRIS",
+			"description": "Platform HR enterprise yang mencakup employee management, struktur organisasi, payroll, KPI, absensi, dan integrasi.",
+			"category": "Enterprise Software",
+			"role": "Full Stack Developer / Team Leader"
+		},
+		"helmet": {
+			"name": "Automated Helmet Washing SaaS",
+			"description": "Ekosistem SaaS yang menghubungkan aplikasi tablet, backend, pembayaran, dan mesin pencuci helm berteknologi IoT.",
+			"category": "SaaS / IoT / Payment Integration",
+			"role": "Technical Partner / CTO Contract"
+		},
+		"travel": { "name": "KapalSantai & Perahuku", "description": "Platform backend yang mendukung layanan kapal dan perjalanan.", "category": "Backend / Travel Technology", "role": "Backend Developer" },
+		"oil": { "name": "Oil Spill Management System", "description": "Pengembangan REST API untuk operasional manajemen oil spill.", "category": "Backend / API", "role": "Software Developer" }
+	},
+	"education": {
+		"eyebrow": "Pendidikan & bahasa",
+		"title": "Belajar dengan Dasar yang Kuat",
+		"degree": "Sarjana Komputer (S.Kom.) · Sistem Informasi",
+		"honor": "Cum Laude",
+		"languageTitle": "Bahasa",
+		"indonesian": "Indonesia · Native",
+		"english": "English · Developing Professional Proficiency",
+		"englishNote": "Nyaman menggunakan dokumentasi teknis dan materi pemrograman berbahasa Inggris, serta sedang meningkatkan kemampuan komunikasi profesional secara lisan."
+	},
+	"contact": {
+		"eyebrow": "Mari terhubung",
+		"title": "Punya Proyek atau Peluang Kolaborasi?",
+		"description": "Saya terbuka untuk proyek software development, kolaborasi teknis, remote work dan peluang profesional.",
+		"cta": "Hubungi Saya",
+		"email": "Email",
+		"whatsapp": "WhatsApp",
+		"whatsappValue": "+62 838-3220-4284",
+		"linkedin": "LinkedIn",
+		"github": "GitHub",
+		"location": "Lokasi",
+		"locationValue": "Gresik, Jawa Timur, Indonesia",
+		"emailValue": "Klik untuk mengirim email"
+	},
+	"footer": { "role": "Software Developer", "tagline": "Membangun software yang andal untuk kebutuhan dunia nyata.", "copyright": "Hak cipta dilindungi." }
+}

@@ -1,0 +1,9 @@
+<script setup lang="ts">
+import { ArrowUpRight, Layers3 } from 'lucide-vue-next'
+import { projects } from '~/data/projects'
+const { t } = useI18n()
+</script>
+
+<template>
+  <section id="projects" class="section bg-soft"><div class="container-page"><div class="max-w-2xl"><p class="eyebrow">{{ t('projects.eyebrow') }}</p><h2 class="section-title">{{ t('projects.title') }}</h2><p class="section-copy">{{ t('projects.description') }}</p></div><div class="mt-12 grid gap-5 md:grid-cols-2"><article v-for="(project, index) in projects" :key="project.nameKey" class="group flex min-h-[330px] flex-col rounded-2xl border border-line bg-white p-6 shadow-card transition hover:-translate-y-1.5 hover:shadow-float"><div class="flex items-start justify-between"><span class="grid h-11 w-11 place-items-center rounded-xl bg-brand-light text-brand"><Layers3 :size="22" /></span><span class="rounded-full border border-line px-3 py-1 text-xs font-bold text-muted">0{{ index + 1 }}</span></div><div class="mt-7"><p class="text-xs font-bold uppercase tracking-wider text-brand">{{ t(`projects.${project.categoryKey}`) }}</p><h3 class="mt-2 font-[Space_Grotesk] text-2xl font-bold tracking-tight text-ink">{{ t(`projects.${project.nameKey}`) }}</h3><p class="mt-3 text-sm leading-7 text-muted">{{ t(`projects.${project.descriptionKey}`) }}</p></div><div class="mt-auto pt-6"><div class="flex flex-wrap gap-2"><span v-for="item in project.technologies" :key="item" class="rounded-md bg-soft px-2.5 py-1 text-xs font-bold text-muted">{{ item }}</span></div><div class="mt-5 flex items-center justify-between border-t border-line pt-4"><p class="text-xs font-semibold text-muted"><span class="text-ink">{{ t('projects.role') }}:</span> {{ t(`projects.${project.roleKey}`) }}</p><a href="#contact" class="inline-flex items-center gap-1 text-sm font-bold text-brand">{{ t('projects.detail') }} <ArrowUpRight :size="16" /></a></div></div></article></div></div></section>
+</template>

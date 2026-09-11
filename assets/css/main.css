@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-white font-sans text-ink antialiased; }
+  ::selection { @apply bg-brand-light text-brand-dark; }
+}
+
+@layer components {
+  .section { @apply px-5 py-20 sm:px-8 lg:py-28; }
+  .container-page { @apply mx-auto w-full max-w-7xl; }
+  .eyebrow { @apply mb-4 text-sm font-bold uppercase tracking-[0.18em] text-brand; }
+  .section-title { @apply font-[Space_Grotesk] text-3xl font-bold tracking-tight text-ink sm:text-4xl lg:text-5xl; }
+  .section-copy { @apply mt-5 max-w-2xl text-base leading-8 text-muted sm:text-lg; }
+  .btn-primary { @apply inline-flex items-center justify-center gap-2 rounded-full bg-brand px-5 py-3 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:bg-brand-dark focus:outline-none focus:ring-4 focus:ring-brand/20; }
+  .btn-secondary { @apply inline-flex items-center justify-center gap-2 rounded-full border border-line bg-white px-5 py-3 text-sm font-bold text-ink transition hover:border-brand hover:text-brand focus:outline-none focus:ring-4 focus:ring-brand/10; }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Satria Giri Syawalludin — Developer Portfolio",
+  "short_name": "Satriags",
+  "description": "Portfolio of Satria Giri Syawalludin, Full Stack, Backend and Odoo Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#5577AA",
+  "icons": [
+    {
+      "src": "/satria-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

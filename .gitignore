@@ -1,0 +1,25 @@
+# Dependencies and package-manager caches
+node_modules/
+.bun/
+
+# Nuxt/Nitro generated output
+.nuxt/
+.output/
+.data/
+
+# Cloudflare Wrangler local state
+.wrangler/
+
+# Local environment and tooling files
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+*.log
+
+# Editor files
+.idea/
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json

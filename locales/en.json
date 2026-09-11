@@ -1,0 +1,115 @@
+{
+	"nav": { "home": "Home", "about": "About", "experience": "Experience", "expertise": "Expertise", "projects": "Projects", "tech": "Tech Stack", "contact": "Contact", "cta": "Let's Work Together", "menu": "Open menu" },
+	"hero": {
+		"eyebrow": "Full Stack · Backend · Odoo Developer",
+		"headline": "Building Software That Solves Real Business Problems.",
+		"description": "I'm Satria Giri Syawalludin, a Full Stack and Backend Developer specializing in enterprise applications, system integration, HRIS/HCMS, Odoo, APIs, and scalable software solutions.",
+		"badge": "Based in Indonesia · Open to Remote & International Opportunities",
+		"experience": "View My Experience",
+		"contact": "Contact Me",
+		"architecture": "Software Architecture",
+		"architectureNote": "Connected, reliable, and built to grow"
+	},
+	"about": {
+		"eyebrow": "About me",
+		"title": "More Than Just Writing Code",
+		"description": "Software developer with 5+ years of professional experience building and maintaining business applications. I combine business understanding with thoughtful technical execution.",
+		"profileAlt": "Satria Giri Syawalludin profile photo",
+		"stats": [
+			{ "value": "5+", "label": "Years Experience" },
+			{ "value": "Enterprise", "label": "Business Applications" },
+			{ "value": "Full Stack", "label": "& Backend" },
+			{ "value": "Technical", "label": "Leadership" }
+		],
+		"industriesTitle": "Cross-domain experience",
+		"industries": ["HRIS", "HCMS", "Odoo", "SaaS", "IoT", "E-Commerce", "POS", "WMS"]
+	},
+	"experience": {
+		"eyebrow": "Professional path",
+		"title": "Building Where It Matters",
+		"description": "Experience creating systems that matter to business operations, from enterprise HR to SaaS and IoT products.",
+		"odooRole": "Odoo Developer",
+		"odooDescription": "Developing, implementing, and enhancing Employee Central, Organization Management, Employee Management, plus enterprise API and data integrations.",
+		"leadRole": "Full Stack Developer / Team Leader",
+		"leadDescription": "Built HCMS systems for PT Adhi Karya and PT Wijaya Karya; led developer progress, implementation quality, business requirements, and project timelines.",
+		"fullstackRole": "Full Stack Developer",
+		"fullstackDescription": "Supported and developed HRIS for Semen Indonesia Group and Waskita Karya.",
+		"ctoRole": "Technical Partner / CTO Contract",
+		"ctoDescription": "Providing technical direction and software architecture for SaaS and IoT products.",
+		"backendRole": "Backend Developer",
+		"backendDescription": "Developing the backend platform for KapalSantai and Perahuku services.",
+		"softwareRole": "Software Developer",
+		"softwareDescription": "Developing REST APIs for an operational oil-spill management application.",
+		"founderRole": "Founder / Software Developer",
+		"founderDescription": "Building IT services and software products through Satriags Developer."
+	},
+	"expertise": {
+		"eyebrow": "Focus areas",
+		"title": "Expertise That Supports Products",
+		"description": "From process analysis through production-ready systems, with a foundation teams can maintain.",
+		"enterprise": "Enterprise Software",
+		"backend": "Backend & REST API",
+		"integration": "System Integration",
+		"hris": "HRIS / HCMS",
+		"odoo": "Odoo Development",
+		"saas": "SaaS & IoT",
+		"analysis": "Business Process Analysis",
+		"leadership": "Technical Leadership"
+	},
+	"tech": {
+		"eyebrow": "Toolbox",
+		"title": "Technology I Work With",
+		"description": "Choosing technology for product needs, scalability, and long-term team ownership.",
+		"frontend": "Frontend",
+		"backend": "Backend",
+		"enterprise": "Enterprise",
+		"database": "Database",
+		"infrastructure": "Infrastructure"
+	},
+	"projects": {
+		"eyebrow": "Selected work",
+		"title": "Systems for Real Problems",
+		"description": "A few product areas and platforms I have built or technically supported.",
+		"detail": "View details",
+		"role": "Role",
+		"hcms": {
+			"name": "Enterprise HCMS / HRIS",
+			"description": "Enterprise HR platforms covering employee management, organization structure, payroll, KPI, attendance, and integrations.",
+			"category": "Enterprise Software",
+			"role": "Full Stack Developer / Team Leader"
+		},
+		"helmet": {
+			"name": "Automated Helmet Washing SaaS",
+			"description": "A SaaS ecosystem connecting tablet applications, backend services, payments, and IoT-enabled helmet washing machines.",
+			"category": "SaaS / IoT / Payment Integration",
+			"role": "Technical Partner / CTO Contract"
+		},
+		"travel": { "name": "KapalSantai & Perahuku", "description": "A backend platform supporting boat and travel-related services.", "category": "Backend / Travel Technology", "role": "Backend Developer" },
+		"oil": { "name": "Oil Spill Management System", "description": "REST API development for operational oil-spill management.", "category": "Backend / API", "role": "Software Developer" }
+	},
+	"education": {
+		"eyebrow": "Education & languages",
+		"title": "Learning on a Strong Foundation",
+		"degree": "Bachelor of Computer Science (S.Kom.) · Information Systems",
+		"honor": "Cum Laude",
+		"languageTitle": "Languages",
+		"indonesian": "Indonesian · Native",
+		"english": "English · Developing Professional Proficiency",
+		"englishNote": "Comfortable with technical documentation and programming-related English. Currently improving professional spoken communication."
+	},
+	"contact": {
+		"eyebrow": "Let's connect",
+		"title": "Have a Project or Opportunity?",
+		"description": "I'm open to software development projects, technical collaborations, remote work, and professional opportunities.",
+		"cta": "Let's Talk",
+		"email": "Email",
+		"whatsapp": "WhatsApp",
+		"whatsappValue": "+62 838-3220-4284",
+		"linkedin": "LinkedIn",
+		"github": "GitHub",
+		"location": "Location",
+		"locationValue": "Gresik, East Java, Indonesia",
+		"emailValue": "Click to send an email"
+	},
+	"footer": { "role": "Software Developer", "tagline": "Building reliable software for real-world problems.", "copyright": "All rights reserved." }
+}
